@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "W7sxSoGZ35M4RsNAI0d5KlBy4pGcrh4jmO1L9+lPUq8=",
+  "Source": "cyptowallet",
+  "BasePath": "_content/cyptowallet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
